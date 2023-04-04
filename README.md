@@ -18,7 +18,7 @@ The project was made to complete postgraduate studies in the field of Frontend D
 
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tKcedmIUhnKMZuVVgC4QwKr6XFQQ-HkZoGsTG9-q-vy2Ak-eXr068Jclf7s5bb-5zhY&usqp=CAU" height="50px" /></a>
 
-<a href="https://pl.wikipedia.org/wiki/HTML5"></img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRUGXR_pLaNtbB7Uw9fKjJBWu42VCTQHy-3pAvBp1vC9yiVdH602-e7mRrLDCkKyojKg&usqp=CAU" height="50px" /></a>
+<a href="https://pl.wikipedia.org/wiki/HTML5"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRUGXR_pLaNtbB7Uw9fKjJBWu42VCTQHy-3pAvBp1vC9yiVdH602-e7mRrLDCkKyojKg&usqp=CAU" height="50px" /></a>
 
 <a href="https://pl.wikipedia.org/wiki/Webpack"><img src="https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png" height="50px" /></a>
 
@@ -26,19 +26,19 @@ The project was made to complete postgraduate studies in the field of Frontend D
 
 To clone and run this application, you'll need Git and Node.js installed on your computer.
 
-# Clone this repository
+#### Clone this repository
 
 $ git clone https://github.com/agnpaw/drum_kit.git
 
-# Go into the repository
+#### Go into the repository
 
 $ cd drum_kit
 
-# Install dependencies
+#### Install dependencies
 
 $ npm install
 
-# Run the app
+#### Run the app
 
 $ npm run start:dev
 
